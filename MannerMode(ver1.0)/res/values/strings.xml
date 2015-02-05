@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">マナーモード設定</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_manner_setting">マナーモード設定</string>
+
+</resources>
